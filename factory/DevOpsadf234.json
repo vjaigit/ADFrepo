@@ -1,0 +1,9 @@
+{
+	"name": "DevOpsadf234",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e7cac4b-cb17-4917-ac38-97f9311d5e1b",
+		"tenantId": "894cd47c-7930-409b-bda6-2cdd79f9011e"
+	}
+}
